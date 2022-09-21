@@ -9,7 +9,7 @@ len_chk = 0
 if len(msg) % 2 != 0:
     msg += "0"
     len_chk = 1
-#coment
+
 #текстти матрицаға
 row = 2 #key 2lik bolgannan keiin 2 row bolady
 col = int(len(msg)/2)
