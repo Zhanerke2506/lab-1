@@ -22,3 +22,5 @@ else:
         else:
             result += i
 print(result)
+
+# что такое git diff?
