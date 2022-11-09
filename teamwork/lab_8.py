@@ -22,3 +22,5 @@ else:
         else:
             result += i
 print(result)
+
+print("hi guys !  why this code isn't working. qasqa")
