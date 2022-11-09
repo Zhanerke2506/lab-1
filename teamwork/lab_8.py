@@ -25,12 +25,4 @@
 
 # print("hi guys !  why this code isn't working. qasqa")
 # print("i'm comin back for you")
-
-list = ["apple","pear","banana","grape"]
-
-
-list2 = ["watermelon","peach"]
-list.extend(list2)  #extends
-list.append("abrikos") #adds
-print(list)
-print(list2)
+print("hi")
