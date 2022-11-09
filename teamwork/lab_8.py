@@ -25,4 +25,21 @@
 
 # print("hi guys !  why this code isn't working. qasqa")
 # print("i'm comin back for you")
-print("hi")
+room = str(input())
+if room == 'треугольник':
+    a = int(input())
+    b = int(input())
+    c = int(input())
+    p = (a + b + c)/2
+    s = (p * (p-a) * (p-b) * (p-c))**0.5
+    print(s)
+elif room == 'прямоугольник':
+    a = int(input())
+    b = int(input())
+    print(a * b)
+elif room == 'круг':
+    r = int(input())
+    pi = 3.14
+    print(pi * r**2)
+else:
+    print("Введите треугольник, круг или прямоугольник")
