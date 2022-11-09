@@ -42,4 +42,4 @@ elif room == 'круг':
     pi = 3.14
     print(pi * r**2)
 else:
-    print("Введите треугольник, круг или прямоугольник")
+    print("enter something")
