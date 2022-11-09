@@ -26,6 +26,8 @@
 # print("hi guys !  why this code isn't working. qasqa")
 # print("i'm comin back for you")
 
+print("bye")
+print("hi everyone")
 a = input()
 b=input()
 room = str(input())
