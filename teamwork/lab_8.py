@@ -25,6 +25,9 @@
 
 # print("hi guys !  why this code isn't working. qasqa")
 # print("i'm comin back for you")
+
+a = input()
+b=input()
 room = str(input())
 if room == 'треугольник':
     a = int(input())
