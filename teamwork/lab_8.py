@@ -33,3 +33,4 @@ list2 = ["watermelon","peach"]
 list.extend(list2)  #extends
 list.append("abrikos") #adds
 print(list)
+print(list2)
